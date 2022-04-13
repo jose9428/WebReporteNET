@@ -7,3 +7,6 @@ Instalar en el Paquete NutGet
 ![Captura de pantalla (934)](https://user-images.githubusercontent.com/76067475/163286171-972a4d3c-4609-4c4b-abb2-980e009cf0ef.png)
 
 Configurar en el Programa.cs
+ 
+![image](https://user-images.githubusercontent.com/76067475/163286345-381e8b59-54c3-4c9f-8240-4e2b2f17c7dd.png)
+System.Text.Encoding.RegisterProvider(System.Text.CodePagesEncodingProvider.Instance);
