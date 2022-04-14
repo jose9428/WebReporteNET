@@ -18,7 +18,7 @@ namespace WebAPIReporte.Data
 
         public byte[] GenerateReportProducts()
         {
-            var ruta = "Reports\\ReporteProductos.rdlc";
+            var ruta = "Reports\\ReporteProducto.rdlc";
             Encoding.RegisterProvider(CodePagesEncodingProvider.Instance);
             Encoding.GetEncoding("windows-1252");
             LocalReport report = new LocalReport(ruta);

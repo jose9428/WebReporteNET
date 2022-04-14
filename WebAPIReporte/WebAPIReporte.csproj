@@ -7,12 +7,12 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Remove="Reports\ReporteProductos.rdlc" />
+    <None Remove="Reports\ReporteProducto.rdlc" />
     <None Remove="Reports\ReportePrueba.rdlc" />
   </ItemGroup>
 
   <ItemGroup>
-    <EmbeddedResource Include="Reports\ReporteProductos.rdlc">
+    <EmbeddedResource Include="Reports\ReporteProducto.rdlc">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </EmbeddedResource>
     <EmbeddedResource Include="Reports\ReportePrueba.rdlc">
