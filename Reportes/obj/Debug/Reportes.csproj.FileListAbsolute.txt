@@ -1,7 +1,8 @@
-C:\Users\Computer\Desktop\WebReporte\Reportes\bin\Debug\ReportePrueba.rdlc
 C:\Users\Computer\Desktop\WebReporte\Reportes\bin\Debug\Reportes.dll
 C:\Users\Computer\Desktop\WebReporte\Reportes\bin\Debug\Reportes.pdb
 C:\Users\Computer\Desktop\WebReporte\Reportes\obj\Debug\Reportes.csproj.AssemblyReference.cache
 C:\Users\Computer\Desktop\WebReporte\Reportes\obj\Debug\Reportes.csproj.CoreCompileInputs.cache
 C:\Users\Computer\Desktop\WebReporte\Reportes\obj\Debug\Reportes.dll
 C:\Users\Computer\Desktop\WebReporte\Reportes\obj\Debug\Reportes.pdb
+C:\Users\Computer\Desktop\WebReporte\Reportes\bin\Debug\Reports\ReportePrueba.rdlc
+C:\Users\Computer\Desktop\WebReporte\Reportes\bin\Debug\Reportes.dll.config

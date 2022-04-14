@@ -12,7 +12,7 @@ var app = builder.Build();
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
-    System.Text.Encoding.RegisterProvider(System.Text.CodePagesEncodingProvider.Instance);
+   // System.Text.Encoding.RegisterProvider(System.Text.CodePagesEncodingProvider.Instance);
     app.UseSwagger();
     app.UseSwaggerUI();
 }
