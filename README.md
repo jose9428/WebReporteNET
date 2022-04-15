@@ -10,3 +10,6 @@ Configurar en el Programa.cs
  
 ![image](https://user-images.githubusercontent.com/76067475/163286345-381e8b59-54c3-4c9f-8240-4e2b2f17c7dd.png)
 System.Text.Encoding.RegisterProvider(System.Text.CodePagesEncodingProvider.Instance);
+
+![Captura de pantalla (935)](https://user-images.githubusercontent.com/76067475/163461064-7ae18ac8-40aa-4e1e-9544-9d0da511b79a.png)
+
