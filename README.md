@@ -12,4 +12,5 @@ Configurar en el Programa.cs
 System.Text.Encoding.RegisterProvider(System.Text.CodePagesEncodingProvider.Instance);
 
 ![Captura de pantalla (935)](https://user-images.githubusercontent.com/76067475/163461064-7ae18ac8-40aa-4e1e-9544-9d0da511b79a.png)
+![image](https://user-images.githubusercontent.com/76067475/163593803-a0dcf126-4d60-4a94-8ae6-99f1171975a1.png)
 
